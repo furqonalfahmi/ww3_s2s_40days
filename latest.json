@@ -1,10 +1,10 @@
 {
-  "cycle": "2026092300",
-  "path": "data/2026092300",
-  "manifest": "data/2026092300/manifest.json",
+  "cycle": "2026092400",
+  "path": "data/2026092400",
+  "manifest": "data/2026092400/manifest.json",
   "count": 161,
   "complete_40day": true,
   "last_forecast_hour": 960,
-  "last_valid_utc": "2026-11-02T00:00:00Z",
-  "generated_utc": "2026-09-24T07:41:00Z"
+  "last_valid_utc": "2026-11-03T00:00:00Z",
+  "generated_utc": "2026-09-25T06:28:10Z"
 }
